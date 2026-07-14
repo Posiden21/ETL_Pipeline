@@ -1,0 +1,11 @@
+patient_id,first_name,last_name,date_of_birth,gender,encounter_id,admit_date,discharge_date,department,diagnosis,procedure_code,total_cost,readmitted_30_days
+P001,Avery,Johnson,1984-02-19,F,E1001,2026-01-03,2026-01-06,Cardiology,Hypertension,I10,4200.50,false
+P002,Morgan,Lee,1972-08-04,F,E1002,2026-01-05,2026-01-07,Emergency,Type 2 diabetes,E11,2300.00,true
+P003,Jordan,Patel,1958-11-22,M,E1003,2026-01-09,2026-01-16,Orthopedics,Hip fracture,S72,18750.75,false
+P001,Avery,Johnson,1984-02-19,F,E1004,2026-02-10,2026-02-11,Primary Care,Follow-up exam,Z09,350.00,false
+P004,Riley,Garcia,1996-05-14,F,E1005,2026-02-12,2026-02-12,Emergency,Asthma,J45,980.25,false
+P005,Casey,Nguyen,1949-09-30,M,E1006,2026-02-19,2026-02-26,Oncology,Lung cancer,C34,32450.00,true
+P006,Taylor,Smith,1965-01-12,F,E1007,2026-03-03,2026-03-08,Neurology,Stroke,I63,22100.90,false
+P007,Quinn,Brown,2001-07-08,M,E1008,2026-03-11,2026-03-11,Primary Care,Annual exam,Z00,220.00,false
+P008,Sam,Wilson,1989-12-02,F,E1009,2026-03-13,2026-03-10,Emergency,Chest pain,R07,1500.00,false
+P009,Drew,Martinez,1977-04-17,M,E1010,2026-03-14,2026-03-16,Cardiology,Arrhythmia,I49,-75.00,false
