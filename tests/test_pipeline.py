@@ -112,6 +112,8 @@ class PipelineTests(unittest.TestCase):
             self.assertEqual(summary.output_dir, output_dir)
             self.assertTrue((output_dir / "patients.csv").exists())
             self.assertTrue((output_dir / "data_quality_report.json").exists())
+            self.assertTrue((output_dir / "risk_tiers.svg").exists())
+            self.assertTrue((output_dir / "department_costs.svg").exists())
             self.assertTrue(database.exists())
 
             with sqlite3.connect(database) as connection:

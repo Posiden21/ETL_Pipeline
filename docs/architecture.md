@@ -35,6 +35,15 @@ The loader writes curated CSV files and replaces the SQLite warehouse tables:
 
 It also writes `data_quality_report.json`, which summarizes record counts, risk tiers, department volumes, and rejection reasons. This keeps local runs deterministic and easy to inspect.
 
+## Reporting
+
+The reporting layer creates lightweight SVG charts alongside the flat files and database:
+
+- `risk_tiers.svg` summarizes patient risk distribution.
+- `department_costs.svg` compares average encounter cost by department.
+
+These files are generated with the Python standard library so the project remains dependency-free.
+
 ## Portfolio Examples
 
 The `examples` folder includes a walkthrough and SQL queries that can be used to demonstrate the finished warehouse:

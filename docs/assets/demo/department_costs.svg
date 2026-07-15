@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="960" height="520" fill="#0F172A"/>
+<text x="30.0" y="42.0" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Average Encounter Cost by Department</text>
+<text x="30.0" y="490.0" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400">Bar length shows average cost; label shows valid encounter count.</text>
+<text x="28.0" y="98.0" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400">Oncology</text>
+<rect x="178" y="72" width="740" height="30" rx="5" fill="#172033" stroke="#334155"/>
+<rect x="178" y="72" width="740.0" height="30" rx="5" fill="#38BDF8"/>
+<text x="746.0" y="93.0" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">$32,450 avg  |  1 encounters</text>
+<text x="28.0" y="146.0" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400">Neurology</text>
+<rect x="178" y="120" width="740" height="30" rx="5" fill="#172033" stroke="#334155"/>
+<rect x="178" y="120" width="504.0" height="30" rx="5" fill="#38BDF8"/>
+<text x="692.0" y="141.0" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">$22,101 avg  |  1 encounters</text>
+<text x="28.0" y="194.0" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400">Orthopedics</text>
+<rect x="178" y="168" width="740" height="30" rx="5" fill="#172033" stroke="#334155"/>
+<rect x="178" y="168" width="427.6" height="30" rx="5" fill="#38BDF8"/>
+<text x="615.6" y="189.0" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">$18,751 avg  |  1 encounters</text>
+<text x="28.0" y="242.0" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400">Cardiology</text>
+<rect x="178" y="216" width="740" height="30" rx="5" fill="#172033" stroke="#334155"/>
+<rect x="178" y="216" width="95.8" height="30" rx="5" fill="#38BDF8"/>
+<text x="283.8" y="237.0" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">$4,200 avg  |  1 encounters</text>
+<text x="28.0" y="290.0" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400">Emergency</text>
+<rect x="178" y="264" width="740" height="30" rx="5" fill="#172033" stroke="#334155"/>
+<rect x="178" y="264" width="37.4" height="30" rx="5" fill="#38BDF8"/>
+<text x="225.4" y="285.0" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">$1,640 avg  |  2 encounters</text>
+<text x="28.0" y="338.0" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400">Primary Care</text>
+<rect x="178" y="312" width="740" height="30" rx="5" fill="#172033" stroke="#334155"/>
+<rect x="178" y="312" width="6.5" height="30" rx="5" fill="#38BDF8"/>
+<text x="194.5" y="333.0" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">$285 avg  |  2 encounters</text>
+</svg>

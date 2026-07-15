@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420" viewBox="0 0 860 420">
+<rect width="860" height="420" fill="#0F172A"/>
+<text x="30.0" y="42.0" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Patient Risk Tier Distribution</text>
+<rect x="86" y="72" width="700" height="260" fill="#172033" stroke="#334155"/>
+<rect x="86.0" y="106.0" width="197.3" height="226.0" rx="6" fill="#22C55E"/>
+<text x="176.7" y="94.0" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">3</text>
+<text x="154.7" y="362.0" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400">Low</text>
+<rect x="337.3" y="106.0" width="197.3" height="226.0" rx="6" fill="#F59E0B"/>
+<text x="428.0" y="94.0" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">3</text>
+<text x="406.0" y="362.0" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400">Medium</text>
+<rect x="588.7" y="256.7" width="197.3" height="75.3" rx="6" fill="#EF4444"/>
+<text x="679.3" y="244.7" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">1</text>
+<text x="657.3" y="362.0" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400">High</text>
+<text x="30.0" y="390.0" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400">Risk tier is derived from age, total encounter cost, and readmission status.</text>
+</svg>

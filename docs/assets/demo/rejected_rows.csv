@@ -1,0 +1,3 @@
+row_number,patient_id,encounter_id,reason
+10,P008,E1009,discharge_date must be on or after admit_date
+11,P009,E1010,total_cost cannot be negative

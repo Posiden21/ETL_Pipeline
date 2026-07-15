@@ -1,0 +1,22 @@
+{
+  "department_counts": {
+    "Cardiology": 1,
+    "Emergency": 2,
+    "Neurology": 1,
+    "Oncology": 1,
+    "Orthopedics": 1,
+    "Primary Care": 2
+  },
+  "patients": 7,
+  "rejected_rows": 2,
+  "rejection_reasons": {
+    "discharge_date must be on or after admit_date": 1,
+    "total_cost cannot be negative": 1
+  },
+  "risk_tier_counts": {
+    "High": 1,
+    "Low": 3,
+    "Medium": 3
+  },
+  "valid_encounters": 8
+}

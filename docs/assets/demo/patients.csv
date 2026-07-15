@@ -1,0 +1,8 @@
+patient_id,first_name,last_name,date_of_birth,age,gender,risk_tier
+P001,Avery,Johnson,1984-02-19,42,F,Low
+P002,Morgan,Lee,1972-08-04,53,F,Medium
+P003,Jordan,Patel,1958-11-22,67,M,Medium
+P004,Riley,Garcia,1996-05-14,30,F,Low
+P005,Casey,Nguyen,1949-09-30,76,M,High
+P006,Taylor,Smith,1965-01-12,61,F,Medium
+P007,Quinn,Brown,2001-07-08,25,M,Low

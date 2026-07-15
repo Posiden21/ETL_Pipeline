@@ -8,6 +8,7 @@ import sqlite3
 from pathlib import Path
 
 from .transform import TransformResult
+from .visualization import write_department_cost_svg, write_risk_tier_svg
 
 
 PATIENT_FIELDS = ["patient_id", "first_name", "last_name", "date_of_birth", "age", "gender", "risk_tier"]
@@ -34,6 +35,8 @@ def load_outputs(result: TransformResult, output_dir: Path, database_path: Path)
     _write_csv(output_dir / "encounters.csv", result.encounters, ENCOUNTER_FIELDS)
     _write_csv(output_dir / "rejected_rows.csv", result.rejected_rows, REJECTED_FIELDS)
     _write_quality_report(output_dir / "data_quality_report.json", result)
+    write_risk_tier_svg(output_dir / "risk_tiers.svg", result.patients)
+    write_department_cost_svg(output_dir / "department_costs.svg", result.encounters)
     _load_sqlite(result, database_path)
 
 
